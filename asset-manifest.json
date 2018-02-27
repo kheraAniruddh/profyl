@@ -1,8 +1,8 @@
 {
   "main.css": "static/css/main.9ec49ac7.css",
   "main.css.map": "static/css/main.9ec49ac7.css.map",
-  "main.js": "static/js/main.9b32e7a9.js",
-  "main.js.map": "static/js/main.9b32e7a9.js.map",
+  "main.js": "static/js/main.e4f8a292.js",
+  "main.js.map": "static/js/main.e4f8a292.js.map",
   "static/media/construction.png": "static/media/construction.1e8a0b9e.png",
   "static/media/fontawesome-webfont.eot": "static/media/fontawesome-webfont.674f50d2.eot",
   "static/media/fontawesome-webfont.svg?v=4.7.0": "static/media/fontawesome-webfont.912ec66d.svg",
@@ -14,6 +14,6 @@
   "static/media/glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
   "static/media/glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
   "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
-  "static/media/logo.svg": "static/media/logo.5d5d9eef.svg",
-  "static/media/mine.jpg": "static/media/mine.2ad0add1.jpg"
+  "static/media/mine.jpg": "static/media/mine.2ad0add1.jpg",
+  "static/media/resume.pdf": "static/media/resume.bf4aafcc.pdf"
 }
